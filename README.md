@@ -4,6 +4,8 @@ Projeto desenvolvido com HTML e CSS puro (sem bibliotecas ou frameworks), utiliz
 
 ## Integrantes
 
+- Nome: Henrique Vieira Ferreira — RM: 569586
+- Nome: Leonardo Gracioli — RM: 571031
 
 ## Estrutura de pastas
 ```
